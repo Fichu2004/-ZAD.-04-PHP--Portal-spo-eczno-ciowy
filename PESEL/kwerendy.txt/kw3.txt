@@ -1,0 +1,4 @@
+kw3.
+SELECT AVG(rok_urodzenia), MIN(rok_urodzenia), MAX(rok_urodzenia) FROM osoby;
+
+

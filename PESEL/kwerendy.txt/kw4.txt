@@ -1,0 +1,2 @@
+kw4.
+UPDATE osoby SET opis='hobby' WHERE hobby_id=4;

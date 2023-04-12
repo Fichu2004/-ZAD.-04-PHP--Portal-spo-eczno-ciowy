@@ -1,0 +1,2 @@
+kw1.
+SELECT id, imie, nazwisko, rok_urodzenia, zdjecie FROM osoby limit 30;

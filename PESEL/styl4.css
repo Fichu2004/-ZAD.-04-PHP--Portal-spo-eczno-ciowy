@@ -1,0 +1,67 @@
+body{
+    font-family: Helvetica;
+    margin: 0px;
+}
+
+.baner{
+    background-color: #AF4448;
+    color: white;
+    text-align: center;
+    height: auto;
+    margin: 0px;
+}
+
+.lewy{
+    background-color: #FFA4A2;
+    width: 50%;
+    height: 650px;
+    float: left;
+    text-align: left;
+    color: black;
+
+}
+
+.prawy{
+    background-color: #FFA4A2;
+    width: 50%;
+    height: 650px;
+    float: left;
+    text-align: left;
+    color: black;
+
+}
+
+.stopka{
+    background-color: #AF4448;
+    color: white;
+    text-align: center;
+    height: 20px;
+    clear: both;
+}
+
+h4{
+    margin: 0px;
+}
+
+h3{
+    margin: 0px;
+}
+
+button{
+    background-color: #AF4448;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
+
+input[type="submit"]{
+    background-color: #AF4448;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}

@@ -1,0 +1,5 @@
+
+k2.
+SELECT imie, nazwisko, rok_urodzenia, opis, zdjecie FROM osoby INNER JOIN hobby ON osoby.id=hobby.id WHERE osoby.id="10";
+
+
